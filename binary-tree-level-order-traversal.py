@@ -6,8 +6,9 @@ Runtime
 
 Memory 
 18.32 MB, Beats 86.77%
- 
 
+
+ALGO: BFS
 '''
 
 # Definition for a binary tree node.
